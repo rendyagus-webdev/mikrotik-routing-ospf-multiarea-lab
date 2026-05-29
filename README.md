@@ -10,7 +10,7 @@ The lab focuses on understanding OSPF fundamentals, Area Border Routers (ABR), r
 
 ## Topology
 
-![Topology](images/topology.png)
+![Topology](image/topology.png)
 
 ### OSPF Areas
 

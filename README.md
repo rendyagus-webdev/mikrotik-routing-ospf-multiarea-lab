@@ -69,15 +69,15 @@ The lab focuses on understanding OSPF fundamentals, Area Border Routers (ABR), r
 
 ### Ping Test
 
-![Ping Test](images/ping-test.png)
+![Ping Test](image/ping-test.png)
 
 ### Traceroute Test
 
-![Traceroute Test](images/traceroute-test.png)
+![Traceroute Test](image/traceroute-test.png)
 
 ### OSPF Routes
 
-![OSPF Routes](images/ospf-routes.png)
+![OSPF Routes](image/ospf-routes.png)
 
 ---
 
